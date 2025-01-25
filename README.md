@@ -1,0 +1,2 @@
+# SQL
+POSTGRES practice + projects 
